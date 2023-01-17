@@ -1,0 +1,35 @@
+
+.conect .zagalovok {
+	color: deeppink;
+}
+
+.zagalovok {
+	color: darkgoldenrod;
+}
+
+#lobok {
+	color: chartreuse;
+}
+
+a.text.t {
+	color: darkred;
+}
+
+a.text {
+	color: coral;
+}
+
+.text {
+	color: blue;
+}
+
+.conect .text.z,
+.conect .text.t {
+	color: olive;
+}
+
+
+
+
+
+
